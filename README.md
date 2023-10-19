@@ -1,9 +1,7 @@
 # ACEUniqueWeenies
 This repository contains a curated collection of unique 'weenies' for the game 'Asheron's Call', distinct from its official retail content. It is designed to serve as a resource for the ACE community, enabling content creators to expand upon and develop new in-game experiences.
 
-Above is a list of weenies that make the YouTube video possible. 
-
-To add them, simply copy and paste these weenies into your weenie folder for your sever. Then as an admin use the command /import-sql all. 
+To add the weenies, simply copy and paste these weenies into your weenie folder for your sever. Then as an admin use the command /import-sql all. 
 
 Note: This changes the Lugians in the Ridge Lugian Citadel near Qalaba'r as well as any Gotrok Tiatus, Gotrok Montok, Gotrok Extas, and Extas Raiders on the landscape. 
 
