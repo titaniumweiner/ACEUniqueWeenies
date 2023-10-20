@@ -19,9 +19,10 @@ The Qalaba'r Grocer sells the following items -
 1. Full Covenant Suit to fight against the new Lugians.
 2. Two handed-sword (more weapons will be created if interest is shown)
 3. Full Jewelry set with cast on strike level 8 void magic
-4. Bonded Stamina, Health, and Mana kits
-5. Set of Two-handed swords with various slayers.
-6. Cloak with Mana to health on hit.
-7. Maxed Under armor, w/ Dispel 8 + heal self V.
+4. Isildur's Bane - This ring casts every beneficial spell ig, making buffing obsolete.
+5. Bonded Stamina, Health, and Mana kits
+6. Set of Two-handed swords with various slayers.
+7. Cloak with Mana to health on hit.
+8. Maxed Under armor, w/ Dispel 8 + heal self V.
    
 
