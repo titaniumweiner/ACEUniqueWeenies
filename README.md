@@ -1,6 +1,9 @@
 # ACEUniqueWeenies
 This repository contains a curated collection of unique 'weenies' for the game 'Asheron's Call', distinct from its official retail content. It is designed to serve as a resource for the ACE community, enabling content creators to expand upon and develop new in-game experiences. 
 
+Youtube video can be found here:
+https://www.youtube.com/watch?v=egHb-tb7n_Y
+
 To add the weenies, simply copy and paste these weenies into your weenie folder for your sever. Then as an admin use the command:
 /import-sql all
 then type /modifybool spell_projectile_ethereal true - this makes it so that ring spells do not interfere with strafing. 
