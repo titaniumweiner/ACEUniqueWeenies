@@ -22,7 +22,7 @@ to
 
 5. 
 
-The Qalaba'r Grocer sells the following items - 
+The Qalaba'r Shopkeeper sells the following items - 
 1. Full Covenant Suit to fight against the new Lugians.
 2. Two handed-sword (more weapons will be created if interest is shown)
 3. Full Jewelry set with cast on strike level 8 void magic
